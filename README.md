@@ -16,5 +16,5 @@ To run the project, run the script _main.py_. It will generate the initial scena
 
 ## Bibliography
 
-Beal, L.D.R., Hill, D., Martin, R.A., and Hedengren, J. D., GEKKO Optimization Suite, Processes, Volume 6, Number 8, 2018, doi: 10.3390/pr6080106.
+Beal, L.D.R., Hill, D., Martin, R.A., and Hedengren, J. D., GEKKO Optimization Suite, Processes, Volume 6, Number 8, 2018, doi: 10.3390/pr6080106.\
 Valli, A., Zhang, S., & Lisser, A. (2025). Continuous-time optimal control for trajectory planning under uncertainty. International Journal of Vehicle Autonomous Systems, 18(3), 261-286.
